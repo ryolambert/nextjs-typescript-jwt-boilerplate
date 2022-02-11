@@ -27,7 +27,7 @@
     "lodash": "^4.17.11",
     "next": "^8.0.3",
     "next-plugin-custom-babel-config": "^1.0.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "pg": "^7.9.0",
     "pg-hstore": "^2.3.2",
     "react": "^16.8.4",
